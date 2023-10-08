@@ -1,0 +1,12 @@
+.buttonFeedback {
+  background-color: rgb(75, 75, 197);
+  color: white;
+  border-radius: 5px;
+}
+.buttonFeedback:hover {
+  background-color: rgb(141, 141, 226);
+}
+.buttonContainer {
+  display: flex;
+  gap: 15px;
+}
