@@ -18,9 +18,6 @@ export const App = () => {
     }
     if (type === 'bad') {
       return setBad(prevBad => prevBad + 1);
-      // this.setState(prevState => ({
-      //   [type]: prevState[type] + 1,
-      // }));
     }
   };
 
